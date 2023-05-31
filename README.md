@@ -1,17 +1,17 @@
 Hotel Review Sentiment Analysis and Prediction
 
-Overview
+Overview:
 
 This project focuses on performing sentiment analysis and prediction on hotel reviews. The goal is to analyze customer sentiments expressed (positive, negative, or neutral) in hotel reviews and develop a predictive model to determine the sentiment of future reviews. The sentiment analysis can provide valuable insights for hotel management to improve customer satisfaction and enhance their services.
 
-Dataset
+Dataset:
 
 The dataset used in this project is sourced from Kaggle and consists of hotel reviews and corresponding ratings. The dataset contains the following information:
 Review: The text of the hotel review.
 Rating: The rating given by the customer (ranging from 1 to 5 stars).
 The dataset is preprocessed to handle missing values, remove irrelevant information, and perform text normalization techniques such as lowercasing, punctuation removal, and stopwords removal.
 
-Project Structure
+Project Structure:
 
 The project follows the following steps:
 Data exploration: Understand the structure and characteristics of the hotel review dataset.
@@ -21,19 +21,19 @@ Feature Engineering: Extract relevant features from the text data, such as word 
 Model Development: Machine learning models, such as Naive Bayes, Decision Tree Classifier, or Random Forest Classifier , are trained on the labeled dataset to classify reviews into positive or negative sentiments. Various models and algorithms are explored and evaluated for their performance.
 Model Evaluation: The trained models are evaluated using appropriate metrics such as accuracy, precision, recall, and F1 score. Cross-validation techniques are applied to assess the models' generalization performance.
 
-Requirements
+Requirements:
 
-Python 3.9
-Pandas
-NumPy
-Scikit-learn
-Natural Language Toolkit (NLTK)
-Matplotlib
-Jupyter Notebook
-Seaborn
-Plotly Express
+Python 3.9.
+Pandas.
+NumPy.
+Scikit-learn.
+Natural Language Toolkit (NLTK).
+Matplotlib.
+Jupyter Notebook.
+Seaborn.
+Plotly Express.
 
-Results
+Results:
 
 The project aims to achieve the following outcomes:
 Perform exploratory data analysis to gain insights into the hotel reviews dataset.
@@ -43,14 +43,14 @@ Select the best-performing model and save it for future predictions.
 Use the trained model to predict the sentiment of new hotel reviews.
 
 
-Contributing
+Contributing:
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
 
-License
+License:
 
 None.
 
-Contact
+Contact:
 For any inquiries or further information, please contact me at Joshuaabupeter@yahoo.com
 
